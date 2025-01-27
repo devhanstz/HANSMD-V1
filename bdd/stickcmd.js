@@ -131,4 +131,4 @@ async function getCmdById(id) {
      getCmdById,
      inStickCmd,
      getAllStickCmds,
-    }
+  }
